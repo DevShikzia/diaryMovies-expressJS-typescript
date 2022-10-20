@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "date": "2022-01-01",
+        "movie": "Back to the future",
+        "genre": "Ciencia ficción/Comedia",
+        "movie_date": 1985,
+        "comment": "Primer pelicula de cienca ficción que recuerdo, muy buena."
+    },
+    {
+        "id": 2,
+        "date": "2022-02-02",
+        "movie": "Spiderman",
+        "genre": "Acción/Fantasía",
+        "movie_date": 2002,
+        "comment": "Genial adaptacion, graciosa interpretacion de Peter Parker."
+    },
+    {
+        "id": 3,
+        "date": "2022-03-03",
+        "movie": "John Wick",
+        "genre": "Acción/Suspenso",
+        "movie_date": 2014,
+        "comment": "Inicio duro pero es muy satisfactorio de ver el desenlace de la trama"
+    }
+]
