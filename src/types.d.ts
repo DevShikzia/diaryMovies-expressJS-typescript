@@ -1,6 +1,4 @@
-export type Genre = 'Ciencia ficción' | 'Comedia' | 'Acción' | 'Fantasía' | 'Animacion'
-export type Rating = 'Excelente' | 'Buena' | 'Regular' | 'Mala' | 'Malisima'
-
+import { Genre, Rating } from './enums'
 export interface DiaryEntry {
   id: number
   date: string
